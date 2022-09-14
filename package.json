@@ -21,7 +21,7 @@
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Szmjuly/3D-Space-Portfolio.git"
+    "url": "git+https://github.com/Szmjuly/3dspaceportfolio.git"
   },
   "keywords": [
     "space",
@@ -32,7 +32,7 @@
   "author": "Solomon Z. Markowitz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Szmjuly/3D-Space-Portfolio/issues"
+    "url": "https://github.com/Szmjuly/3dspaceportfolio/issues"
   },
-  "homepage": "https://github.com/Szmjuly/3D-Space-Portfolio#readme"
+  "homepage": "https://github.com/Szmjuly/3dspaceportfolio#readme"
 }
