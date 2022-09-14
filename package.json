@@ -16,5 +16,23 @@
   "devDependencies": {
     "eslint": "8.23.1",
     "eslint-config-next": "12.3.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szmjuly/3D-Space-Portfolio.git"
+  },
+  "keywords": [
+    "space",
+    "portfolio",
+    "threejs",
+    "nextjs"
+  ],
+  "author": "Solomon Z. Markowitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szmjuly/3D-Space-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Szmjuly/3D-Space-Portfolio#readme"
 }
